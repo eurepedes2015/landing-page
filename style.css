@@ -1,25 +1,15 @@
-body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    display: flex;
-}
 .hero {
-    background-color: #1f2937;
-    height: 600px;
-    display: flex;
-
+    size: 100vw;
 }
-li, p, h1 {
+.ul {
+    display: flex;
     list-style: none;
-    display: flex;
     justify-content: space-between;
-    color: #f9faf8;
-    font-size: 18px;
-    align-items: center;
-    justify-content: space-between;
-    text-decoration: none;
 
 }
-h1 {
-    font-size: 48px;
-    font-weight: bolder;
+a {
+    text-decoration: none;
+    color: blanchedalmond;
+    background-color: blue;
+
 }
